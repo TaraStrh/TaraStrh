@@ -12,8 +12,16 @@
 
 <br/>
 <hr/>
-<h5 align="center">Connect with me:</h5>
-<p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/tara-setareh-3a40b2248?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tara-setareh-3a40b2248?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" height="20" width="30" /></a>
+<h5 align="center">Connect with me</h5>
+<div align="center"> 
+  <a href="tara.setareh8282@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/tara-setareh-3a40b2248?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
+
+ <hr/>
 
 </p>
