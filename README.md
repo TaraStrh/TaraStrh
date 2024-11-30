@@ -3,11 +3,6 @@
 
 - 📫 How to reach me **tara.setareh8282@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/tara-setareh-3a40b2248?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tara-setareh-3a40b2248?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" height="30" width="40" /></a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -53,4 +48,15 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="margin-right: 10px;"/>
   </a>
 </p>
+
+<h3 align="left">GitHub Stats:</h3>
+<p align="left">
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true)
+</p>
+
+<h3 align="left">GitHub Contributions:</h3>
+<p align="left">
+  ![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=your_username&count_private=true&show_icons=true&hide_title=true&hide=prs)
+</p>
+
 
