@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tara Setareh</h1>
-<h3 align="center">Computer Engineering Student at Iran University of Science and Technology, Passionate about Technology and Innovation.</h3>
+<h3 align="center">Computer Engineering Student at Iran University of Science and Technology.</h3>
 
 - 📫 How to reach me **tara.setareh8282@gmail.com**
 
